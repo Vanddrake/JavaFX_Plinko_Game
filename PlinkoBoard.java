@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * A class to create a Plinko Board object and track play data
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 
 public class PlinkoBoard {
