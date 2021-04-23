@@ -15,9 +15,9 @@ import static java.lang.Integer.parseInt;
 
 /**
  * A program that allows the user to play a game of Plinko, including features such as animation and score tracking.
- * Mohawk College, COMP 10062 - Programming in Java. July 19, 2020.
+ * July 19, 2020.
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 
 public class MainView extends Application {
