@@ -5,7 +5,7 @@ import javafx.scene.text.Font;
 /**
  * A class to create a single Plinko Puck object
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 
 public class PlinkoPuck {
